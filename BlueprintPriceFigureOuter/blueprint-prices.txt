@@ -1,0 +1,111 @@
+Trader's Leathers	7450
+Plated Longboots	2821
+Noble's Robe	984
+Rag Loincloth	75
+Turban	1758
+Kusari Zukin	4081
+Ashland Hat	378
+Turtleneck	450
+Halfpants (ragged)	75
+Dyed Turtleneck	450
+Blackened Chain Hive Shirt	28572
+Drifter's Leather Pants	1489
+Gi	300
+Leather Turtleneck	11175
+White Vest	225
+Halfpants (reinforced)	2607
+Side-Angle Hachigane	1732
+Noble's Trousers	750
+Karuta Zukin	4897
+Eagle's Cross	11308
+Swamp Ninja Mask	2235
+Stout Hessian	300
+Samurai Clothpants	3724
+Leather Shirt	11175
+Mask Type III	2235
+Gi Pants	75
+Cap	135
+Black Rag Shirt	984
+Longcoat	7450
+Cargopants (sneaky chain)	3955
+Blackened Chainmail Tagelmust	5713
+Dark Leather Shirt	15643
+Ninja Pants	75
+Flared Helmet	4233
+Worn-out Shorts	30
+Monk Pants	75
+Dyed Robes	984
+Fog Mask	3465
+Samurai Helmet	4545
+Masked Helmet	4233
+Rag Shirt	984
+Samurai Boots	3030
+Black Cloth Shirt	337
+Hiver Chain Shirt	20409
+Bucket Zukin	4470
+Cargopants	75
+Oldworld Bow MkII	9868
+Armoured Hood	4233
+Wooden Sandals	75
+Cargopants (padded)	2050
+Square Goggles	90
+Visored Helmet	4233
+Chain Shirt	20409
+Paladin's Heavy Hachigane	4545
+Cargopants (colored)	75
+Mercenary Leather Armour	7122
+Iron Hat	4233
+Armoured Face Plates	4233
+Oldworld Bow MkI	8278
+Assassin's Rags	7450
+Dyed Turban	1758
+Wool Hat	135
+Ninja Mask	2076
+Ninja Gi	300
+Dyed Rag Shirt	984
+Armoured Rags	9171
+Monk Robe	984
+Hachigane	1732
+Ninja Rags	7450
+Chainmail	20409
+Martial Artist Bindings	225
+Blackened Chainmail	28572
+Ashlander Stormgoggles	180
+Leather Hive Vest	6705
+Samurai Armour	15154
+Halfpants (colored)	75
+Blackened Chain Shirt	28572
+Armoured Rag Skirt	7054
+Basket Hat	15
+Spiked Helmet	3181
+Rusted Hive Shirt	20409
+Tagelmust	1758
+Drifter's Boots	1489
+Drifter's Leather Jacket	4470
+Halfpants (padded)	2050
+Bandana	1758
+Rattan Hat	2235
+Heart Protector	11554
+Unholy Chest Plate	15154
+Black Plate Jacket	10683
+Dyed Trousers	75
+Tin Can	4545
+Plate Jacket	9792
+Armoured Rags (colored)	9171
+Police Helmet	4233
+Dustcoat	7450
+Rusty Chain Shirt	20409
+Mercenary Plate	15154
+Tricorn Hat	1116
+Samurai Legplates	7576
+Sleeveless Longcoat	7450
+Leather Vest	6705
+Armoured Rag Skirt (colored)	7054
+Rusty Chainmail Tagelmust	4489
+White Plate Jacket	10683
+Rusty Chainmail	20409
+Cargopants (reinforced)	20607
+Straw Hat	15
+Conscript Leather Armour	5341
+Cloth Shirt	337
+Plated Drifter's Leather Pants	4761
